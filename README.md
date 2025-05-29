@@ -42,10 +42,10 @@ for i in range(len(array)):
 
 Note: The best case occurs when the input array is already sorted. The worst case is when the array is sorted in reverse order.
 
-## Visualization
-This project includes a Python script that generates an MP4 video showing how the Bubble Sort algorithm works step-by-step. It uses OpenCV to draw bars representing array elements and highlights swaps and comparisons with colors and annotations.
+### Visualization
+This project includes a Python script that generates an MP4 video showing how the Bubble Sort algorithm works step-by-step. It uses OpenCV to draw bars representing array elements and highlights swaps and comparisons with colors and annotations. Access [`python file here`](bubble_sort_visualizer.py)
 
-## Features:
+### Features:
 - Color-coded comparisons (e.g. red bars during swaps).
 
 - Annotated explanations rendered on each frame.
@@ -54,7 +54,7 @@ This project includes a Python script that generates an MP4 video showing how th
 
 - Suitable for classroom use or personal study.
 
-## Installation
+## Requirements
 - Python 3.x
 - OpenCV (cv2)
 - NumPy
@@ -80,23 +80,14 @@ python bubble_sort_visualizer.py
 bubble-sort-visualizer/
 ├── bubble_sort_visualizer.py     # Main script to generate the video
 ├── bubble_sort_visualization.mp4 # Output video
-└── README.md                     # You're reading it
+├── LICENSE
+└── README.md              
 ```
 ## Educational Purpose
 This repository is primarily intended for:
 
-Computer Science students learning sorting algorithms.
+- Computer Science students learning sorting algorithms.
 
-Educators creating course materials.
+- Educators creating course materials.
 
-Developers exploring data visualization with OpenCV.
-
-## Feedback & Contributions
-Contributions are welcome! If you'd like to add new features (like color themes, more algorithms, or sound effects 🎵), feel free to fork the repo and submit a pull request.
-
-If you found this project helpful, don’t forget to star 🌟 the repository!
-
-## Preview Snapshot
-
-## License
-This project is open-source and available under the MIT License.
+- Developers exploring data visualization with OpenCV.
