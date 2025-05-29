@@ -75,14 +75,6 @@ python bubble_sort_visualizer.py
 ```
 **You can customize the data array in the script to visualize your own set of numbers.**
 
-## Repository Structure
-```bash
-bubble-sort-visualizer/
-├── bubble_sort_visualizer.py     # Main script to generate the video
-├── bubble_sort_visualization.mp4 # Output video
-├── LICENSE
-└── README.md              
-```
 ## Educational Purpose
 This repository is primarily intended for:
 
@@ -91,3 +83,12 @@ This repository is primarily intended for:
 - Educators creating course materials.
 
 - Developers exploring data visualization with OpenCV.
+  
+## Repository Structure
+```bash
+bubble-sort-visualizer/
+├── bubble_sort_visualizer.py     # Main script to generate the video
+├── bubble_sort_visualization.mp4 # Output video
+├── LICENSE
+└── README.md              
+```
