@@ -1,8 +1,8 @@
 # Bubble Sort — Algorithm Explained with Visualization
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-Visualization-5C3EE8?logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-Arrays-013243?logo=numpy&logoColor=white)
 
 Welcome to this educational repository where the **Bubble Sort algorithm** is both explained in detail and brought to life through an interactive **Python-based visualization** using OpenCV.
 
