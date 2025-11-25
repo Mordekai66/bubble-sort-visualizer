@@ -65,10 +65,7 @@ This project includes a Python script that generates an MP4 video showing how th
 
 ## Getting Started
 1. Clone the repository:
-```bash
-git clone https://github.com/Mordekai66/bubble-sort-visualizer.git
-cd bubble-sort-visualizer
-```
+
 3. Install dependencies:
 ```python
 pip install opencv-python numpy
